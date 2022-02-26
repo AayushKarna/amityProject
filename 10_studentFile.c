@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <conio.h>
-#define MAX 500
 
 int main(void)
 {
